@@ -38,7 +38,7 @@ const isOpen = ref(false);
   </nav>
 </template>
 
-<style scoped>
+<style lang="scss" scoped>
 nav {
   .container {
     .brand {
